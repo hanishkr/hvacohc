@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/tech8525/heatingandcoolingrepair.ca/
+    - export DEPLOYPATH=/home/tech8525/furnacerepairservice.ca/
     - /bin/cp -R . $DEPLOYPATH
