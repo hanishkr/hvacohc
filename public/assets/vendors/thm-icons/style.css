@@ -1,0 +1,826 @@
+@font-face {
+  font-family: 'icomoon';
+  src: url('fonts/icomoon.eot?orkqwr');
+  src: url('fonts/icomoon.eot?orkqwr#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?orkqwr') format('truetype'),
+    url('fonts/icomoon.woff?orkqwr') format('woff'),
+    url('fonts/icomoon.svg?orkqwr#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"],
+[class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+
+
+
+
+
+
+
+
+.icon-magnifying-glass:before {
+  content: "\e900";
+}
+
+.icon-phone .path1:before {
+  content: "\e901";
+  color: rgb(254, 216, 67);
+}
+
+.icon-phone .path2:before {
+  content: "\e902";
+  margin-left: -1em;
+  color: rgb(250, 190, 44);
+}
+
+.icon-phone .path3:before {
+  content: "\e903";
+  margin-left: -1em;
+  color: rgb(255, 100, 26);
+}
+
+.icon-phone .path4:before {
+  content: "\e904";
+  margin-left: -1em;
+  color: rgb(240, 56, 0);
+}
+
+.icon-phone .path5:before {
+  content: "\e905";
+  margin-left: -1em;
+  color: rgb(97, 61, 92);
+}
+
+.icon-phone .path6:before {
+  content: "\e906";
+  margin-left: -1em;
+  color: rgb(97, 61, 92);
+}
+
+.icon-phone .path7:before {
+  content: "\e907";
+  margin-left: -1em;
+  color: rgb(75, 39, 70);
+}
+
+.icon-phone .path8:before {
+  content: "\e908";
+  margin-left: -1em;
+  color: rgb(75, 39, 70);
+}
+
+.icon-menu:before {
+  content: "\e909";
+}
+
+.icon-wish-list:before {
+  content: "\e90a";
+}
+
+.icon-decrease:before {
+  content: "\e90b";
+}
+
+.icon-ac:before {
+  content: "\e90c";
+}
+
+.icon-air-cooler:before {
+  content: "\e90d";
+}
+
+.icon-hot:before {
+  content: "\e90e";
+}
+
+.icon-right:before {
+  content: "\e90f";
+}
+
+.icon-right-1:before {
+  content: "\e910";
+}
+
+.icon-log-out:before {
+  content: "\e911";
+}
+
+.icon-air-conditioning:before {
+  content: "\e912";
+}
+
+.icon-maintenance:before {
+  content: "\e913";
+}
+
+.icon-air-conditioner:before {
+  content: "\e914";
+}
+
+.icon-repair:before {
+  content: "\e915";
+}
+
+.icon-right-2:before {
+  content: "\e916";
+}
+
+.icon-left-arrow:before {
+  content: "\e917";
+}
+
+.icon-next:before {
+  content: "\e918";
+}
+
+.icon-happy:before {
+  content: "\e919";
+}
+
+.icon-rating:before {
+  content: "\e91a";
+}
+
+.icon-comment:before {
+  content: "\e91b";
+}
+
+.icon-worker:before {
+  content: "\e91c";
+}
+
+.icon-technology:before {
+  content: "\e91d";
+}
+
+.icon-money:before {
+  content: "\e91e";
+}
+
+.icon-project:before {
+  content: "\e91f";
+}
+
+.icon-group:before {
+  content: "\e920";
+}
+
+.icon-customer-satisfaction:before {
+  content: "\e921";
+}
+
+.icon-branch:before {
+  content: "\e922";
+}
+
+.icon-play:before {
+  content: "\e923";
+}
+
+.icon-quotation:before {
+  content: "\e924";
+}
+
+.icon-quote:before {
+  content: "\e925";
+}
+
+.icon-caret-down:before {
+  content: "\e926";
+}
+
+.icon-player:before {
+  content: "\e927";
+}
+
+.icon-link:before {
+  content: "\e928";
+}
+
+.icon-link-1:before {
+  content: "\e929";
+}
+
+.icon-home-address:before {
+  content: "\e92a";
+}
+
+.icon-open-envelope:before {
+  content: "\e92b";
+}
+
+.icon-phone-1:before {
+  content: "\e92c";
+}
+
+.icon-bars:before {
+  content: "\e92d";
+}
+
+.icon-menu-bar:before {
+  content: "\e92e";
+}
+
+.icon-response:before {
+  content: "\e92f";
+}
+
+.icon-customer-service:before {
+  content: "\e930";
+}
+
+.icon-review:before {
+  content: "\e931";
+}
+
+.icon-guarantee:before {
+  content: "\e932";
+}
+
+.icon-engineer:before {
+  content: "\e933";
+}
+
+.icon-maintenance-1:before {
+  content: "\e934";
+}
+
+.icon-maintenance-2:before {
+  content: "\e935";
+}
+
+.icon-air-conditioning-1:before {
+  content: "\e936";
+}
+
+.icon-skills:before {
+  content: "\e937";
+}
+
+.icon-maps-and-flags:before {
+  content: "\e938";
+}
+
+.icon-down-arrow .path1:before {
+  content: "\e939";
+  color: rgb(255, 209, 93);
+}
+
+.icon-down-arrow .path2:before {
+  content: "\e93a";
+  margin-left: -1em;
+  color: rgb(249, 181, 76);
+}
+
+.icon-down-arrow .path3:before {
+  content: "\e93b";
+  margin-left: -1em;
+  color: rgb(50, 74, 94);
+}
+
+.icon-down-arrow .path4:before {
+  content: "\e93c";
+  margin-left: -1em;
+  color: rgb(43, 59, 78);
+}
+
+.icon-down-arrow-1:before {
+  content: "\e93d";
+  color: #fcbf49;
+}
+
+.icon-24-hours:before {
+  content: "\e93e";
+}
+
+.icon-calendar:before {
+  content: "\e93f";
+}
+
+.icon-calendar-1:before {
+  content: "\e940";
+}
+
+.icon-on-time:before {
+  content: "\e941";
+}
+
+.icon-clock:before {
+  content: "\e942";
+}
+
+.icon-appointment:before {
+  content: "\e943";
+}
+
+.icon-telephone:before {
+  content: "\e944";
+}
+
+.icon-clock-1:before {
+  content: "\e945";
+}
+
+.icon-arrow-right:before {
+  content: "\e946";
+}
+
+.icon-check:before {
+  content: "\e947";
+}
+
+.icon-check-mark:before {
+  content: "\e948";
+}
+
+.icon-air-conditioning-2:before {
+  content: "\e949";
+}
+
+.icon-telephone-1:before {
+  content: "\e94a";
+}
+
+.icon-email:before {
+  content: "\e94b";
+}
+
+.icon-phone-2:before {
+  content: "\e94c";
+}
+
+.icon-telephone-2:before {
+  content: "\e94d";
+}
+
+.icon-underfloor-heating:before {
+  content: "\e94e";
+}
+
+.icon-fuel-pump:before {
+  content: "\e94f";
+}
+
+.icon-furnace:before {
+  content: "\e950";
+}
+
+.icon-blast-furnace:before {
+  content: "\e951";
+}
+
+.icon-furnace-1:before {
+  content: "\e952";
+}
+
+.icon-cremation:before {
+  content: "\e953";
+}
+
+.icon-modern-house:before {
+  content: "\e954";
+}
+
+.icon-cooling-system:before {
+  content: "\e955";
+}
+
+.icon-home:before {
+  content: "\e956";
+}
+
+.icon-technical:before {
+  content: "\e957";
+}
+
+.icon-save-money:before {
+  content: "\e958";
+}
+
+.icon-warranty:before {
+  content: "\e959";
+}
+
+.icon-heater:before {
+  content: "\e95a";
+}
+
+.icon-heater-1:before {
+  content: "\e95b";
+}
+
+.icon-24-hours-1:before {
+  content: "\e95c";
+}
+
+.icon-floor:before {
+  content: "\e95d";
+}
+
+.icon-repair-1:before {
+  content: "\e95e";
+}
+
+.icon-delivery-service:before {
+  content: "\e95f";
+}
+
+.icon-service:before {
+  content: "\e960";
+}
+
+.icon-right-arrow:before {
+  content: "\e961";
+}
+
+.icon-location:before {
+  content: "\e962";
+}
+
+.icon-mail:before {
+  content: "\e963";
+}
+
+.icon-phone-call:before {
+  content: "\e964";
+}
+
+.icon-working-hours:before {
+  content: "\e965";
+}
+
+.icon-x-mark:before {
+  content: "\e966";
+}
+
+.icon-checkmark:before {
+  content: "\e967";
+}
+
+.icon-checked:before {
+  content: "\e968";
+}
+
+.icon-download:before {
+  content: "\e969";
+}
+
+.icon-factory:before {
+  content: "\e96a";
+}
+
+.icon-factory-1:before {
+  content: "\e96b";
+}
+
+.icon-air-conditioning-3:before {
+  content: "\e96c";
+}
+
+.icon-maintenance-3:before {
+  content: "\e96d";
+}
+
+.icon-air-conditioner-1:before {
+  content: "\e96e";
+}
+
+.icon-best-seller:before {
+  content: "\e96f";
+}
+
+.icon-quality:before {
+  content: "\e970";
+}
+
+.icon-high-quality:before {
+  content: "\e971";
+}
+
+.icon-plus:before {
+  content: "\e972";
+}
+
+.icon-minus:before {
+  content: "\e973";
+}
+
+.icon-down-arrow-2:before {
+  content: "\e974";
+}
+
+.icon-cloud-computing:before {
+  content: "\e975";
+}
+
+.icon-trust:before {
+  content: "\e976";
+}
+
+.icon-reliability:before {
+  content: "\e977";
+}
+
+.icon-loupe:before {
+  content: "\e978";
+}
+
+.icon-zoom-in:before {
+  content: "\e979";
+}
+
+.icon-quote-1:before {
+  content: "\e97a";
+}
+
+.icon-left-quote:before {
+  content: "\e97b";
+}
+
+.icon-right-arrow-1:before {
+  content: "\e97c";
+}
+
+.icon-full-screen:before {
+  content: "\e97d";
+}
+
+.icon-link-2:before {
+  content: "\e97e";
+}
+
+.icon-close:before {
+  content: "\e97f";
+}
+
+.icon-menu-1:before {
+  content: "\e980";
+}
+
+.icon-allah .path1:before {
+  content: "\e981";
+  color: rgb(128, 210, 97);
+}
+
+.icon-allah .path2:before {
+  content: "\e982";
+  margin-left: -1em;
+  color: rgb(104, 202, 68);
+}
+
+.icon-allah .path3:before {
+  content: "\e983";
+  margin-left: -1em;
+  color: rgb(104, 202, 68);
+}
+
+.icon-allah .path4:before {
+  content: "\e984";
+  margin-left: -1em;
+  color: rgb(128, 210, 97);
+}
+
+.icon-allah .path5:before {
+  content: "\e985";
+  margin-left: -1em;
+  color: rgb(104, 202, 68);
+}
+
+.icon-allah .path6:before {
+  content: "\e986";
+  margin-left: -1em;
+  color: rgb(128, 210, 97);
+}
+
+.icon-allah .path7:before {
+  content: "\e987";
+  margin-left: -1em;
+  color: rgb(104, 202, 68);
+}
+
+.icon-allah .path8:before {
+  content: "\e988";
+  margin-left: -1em;
+  color: rgb(104, 202, 68);
+}
+
+.icon-allah .path9:before {
+  content: "\e989";
+  margin-left: -1em;
+  color: rgb(104, 202, 68);
+}
+
+.icon-allah .path10:before {
+  content: "\e98a";
+  margin-left: -1em;
+  color: rgb(128, 210, 97);
+}
+
+.icon-allah .path11:before {
+  content: "\e98b";
+  margin-left: -1em;
+  color: rgb(104, 202, 68);
+}
+
+.icon-allah .path12:before {
+  content: "\e98c";
+  margin-left: -1em;
+  color: rgb(128, 210, 97);
+}
+
+.icon-allah .path13:before {
+  content: "\e98d";
+  margin-left: -1em;
+  color: rgb(104, 202, 68);
+}
+
+.icon-allah .path14:before {
+  content: "\e98e";
+  margin-left: -1em;
+  color: rgb(128, 210, 97);
+}
+
+.icon-allah .path15:before {
+  content: "\e98f";
+  margin-left: -1em;
+  color: rgb(104, 202, 68);
+}
+
+.icon-allah .path16:before {
+  content: "\e990";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+
+.icon-allah .path17:before {
+  content: "\e991";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+
+.icon-allah .path18:before {
+  content: "\e992";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+
+.icon-allah .path19:before {
+  content: "\e993";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+
+.icon-allah .path20:before {
+  content: "\e994";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+
+.icon-allah .path21:before {
+  content: "\e995";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+
+.icon-allah .path22:before {
+  content: "\e996";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+
+.icon-allah .path23:before {
+  content: "\e997";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+
+.icon-allah .path24:before {
+  content: "\e998";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+
+.icon-air-conditioner-2:before {
+  content: "\e999";
+}
+
+.icon-air-conditioning-4:before {
+  content: "\e99a";
+}
+
+.icon-plate-heat-exchangers:before {
+  content: "\e99b";
+}
+
+.icon-technician:before {
+  content: "\e99c";
+}
+
+.icon-circuit:before {
+  content: "\e99d";
+}
+
+.icon-rating-1:before {
+  content: "\e99e";
+}
+
+.icon-skyscrapers:before {
+  content: "\e99f";
+}
+
+.icon-technician-1:before {
+  content: "\e9a0";
+}
+
+.icon-sale:before {
+  content: "\e9a1";
+}
+
+.icon-rating-2:before {
+  content: "\e9a2";
+}
+
+.icon-rating-3:before {
+  content: "\e9a3";
+}
+
+.icon-stopwatch:before {
+  content: "\e9a4";
+}
+
+.icon-diagnostic:before {
+  content: "\e9a5";
+}
+
+.icon-fast-time:before {
+  content: "\e9a6";
+}
+
+.icon-phone-3:before {
+  content: "\e9a7";
+}
+
+.icon-deadline:before {
+  content: "\e9a8";
+}
+
+.icon-24-hours-2:before {
+  content: "\e9a9";
+}
+
+.icon-24-hours-phone-service:before {
+  content: "\e9aa";
+}
+
+.icon-call:before {
+  content: "\e9ab";
+}
+
+.icon-tools:before {
+  content: "\e9ac";
+}
+
+.icon-calling:before {
+  content: "\e9ad";
+}
+
+.icon-heat:before {
+  content: "\e9ae";
+}
+
+.icon-fan:before {
+  content: "\e9af";
+}
+
+.icon-house:before {
+  content: "\e9b0";
+}
+
+.icon-skyline:before {
+  content: "\e9b1";
+}
+
+.icon-hand:before {
+  content: "\e9b2";
+}
+
+.icon-draws:before {
+  content: "\e9b3";
+}

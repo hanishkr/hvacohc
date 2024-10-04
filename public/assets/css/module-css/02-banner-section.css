@@ -1,0 +1,1104 @@
+/*--------------------------------------------------------------
+# Banner Style1 Css
+--------------------------------------------------------------*/
+.banner-style1 {
+    position: relative;
+    display: block;
+    background-color: #090d30;
+}
+
+.banner-style1__inner {
+    position: relative;
+    display: block;
+    max-width: 1730px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+
+.banner-style1__inner-content {
+    position: relative;
+    display: block;
+    overflow: hidden;
+    border-top-right-radius: 40px;
+    border-bottom-left-radius: 40px;
+}
+
+.banner-style1 .banner-bg-slide {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-position: left top;
+    height: 100% !important;
+}
+
+.banner-style1 .container {
+    max-width: 100%;
+    padding: 0;
+}
+
+.banner-style1__content {
+    position: relative;
+    display: block;
+    overflow: hidden;
+    padding: 115px 0 246.22px;
+    z-index: 2;
+}
+
+.banner-style1__content-inner {
+    position: relative;
+    display: block;
+    max-width: 570px;
+    width: 100%;
+    float: right;
+    padding-right: 80px;
+}
+
+.banner-style1__content .big-title {
+    position: relative;
+    display: block;
+}
+
+.banner-style1__content .big-title h2 {
+    color: #ffffff;
+    font-size: 58px;
+    line-height: 1.2em;
+    font-weight: 900;
+    text-transform: capitalize;
+    font-family: var(--thm-font-2);
+}
+
+.banner-style1__content .text {
+    position: relative;
+    display: block;
+    padding: 17px 0 43px;
+}
+
+.banner-style1__content .text p {
+    color: #ffffff;
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 600;
+}
+
+.banner-style1__content .btn-box {
+    display: block;
+}
+
+
+
+
+/*--------------------------------------------------------------
+# Banner Style2 Css
+--------------------------------------------------------------*/
+.banner-style2 {
+    position: relative;
+    display: block;
+    background-color: #090d30;
+    z-index: 10;
+}
+
+.banner-style2__bg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
+    z-index: -1;
+}
+
+.banner-style2 .container {
+    max-width: 1400px;
+}
+
+
+.banner-style2__content {
+    position: relative;
+    display: block;
+    overflow: hidden;
+    z-index: 2;
+}
+
+.banner-style2__content-inner {
+    position: relative;
+    display: block;
+    max-width: 570px;
+    width: 100%;
+    padding: 240px 0 230px;
+    z-index: 2;
+}
+
+.banner-style2__content .sub-title {
+    position: relative;
+    display: inline-flex;
+    align-items: center;
+    background-color: rgba(9, 13, 48, 0.50);
+    padding: 4px 30px 3px;
+    border-radius: 16px;
+    margin-bottom: 23px;
+}
+
+.banner-style2__content .sub-title h5 {
+    color: #ffffff;
+    font-size: 15px;
+    line-height: 26px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+}
+
+
+
+.banner-style2__content .big-title {
+    position: relative;
+    display: block;
+}
+
+.banner-style2__content .big-title h2 {
+    color: #ffffff;
+    font-size: 63px;
+    line-height: 1.2em;
+    font-weight: 900;
+    text-transform: capitalize;
+    font-family: var(--thm-font-2);
+}
+
+.banner-style2__content .text {
+    position: relative;
+    display: block;
+    padding: 26px 0 43px;
+}
+
+.banner-style2__content .text p {
+    color: #ffffff;
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 600;
+}
+
+.banner-style2__content .btn-box {
+    display: flex;
+    align-items: center;
+}
+
+.banner-style2__content .btn-box .icon {
+    position: relative;
+    display: block;
+    margin-left: 55px;
+}
+
+
+
+
+.schedule-appointment-box {
+    position: absolute;
+    bottom: 30px;
+    right: 0;
+    display: block;
+    max-width: 770px;
+    width: 100%;
+}
+
+.schedule-appointment-box .banner-style2__img-box {
+    position: absolute;
+    left: 0;
+    bottom: -40px;
+}
+
+.schedule-appointment-box__form {
+    position: relative;
+    display: block;
+    max-width: 355px;
+    width: 100%;
+    float: right;
+    background-image: -moz-linear-gradient(0deg, rgb(217, 4, 41) 0%, rgb(217, 24, 23) 57%, rgb(217, 44, 4) 100%);
+    background-image: -webkit-linear-gradient(0deg, rgb(217, 4, 41) 0%, rgb(217, 24, 23) 57%, rgb(217, 44, 4) 100%);
+    background-image: -ms-linear-gradient(0deg, rgb(217, 4, 41) 0%, rgb(217, 24, 23) 57%, rgb(217, 44, 4) 100%);
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+
+.schedule-appointment-box__form .top-title {
+    position: relative;
+    display: block;
+    text-align: center;
+    padding: 31px 0 21px;
+    z-index: 1;
+}
+
+.schedule-appointment-box__form .top-title h2 {
+    color: #ffffff;
+    font-size: 40px;
+    line-height: 30px;
+    font-weight: 700;
+    font-style: italic;
+    margin: 0 0 5px;
+    font-family: var(--thm-font-4);
+}
+
+.schedule-appointment-box__form .top-title h2 span {
+    font-size: 24px;
+    font-weight: 500;
+    font-style: normal;
+    font-family: var(--thm-font);
+}
+
+.schedule-appointment-box__form .top-title .icon {
+    position: relative;
+    display: block;
+    padding-top: 14px;
+}
+
+
+.schedule-appointment-box__form form {
+    position: relative;
+    display: block;
+    padding: 0px 30px 30px;
+}
+
+.schedule-appointment-box__form form .row {
+    --bs-gutter-x: 10px;
+}
+
+.schedule-appointment-box__form form .form-group {
+    position: relative;
+    display: block;
+    padding-bottom: 10px;
+}
+
+.schedule-appointment-box__form form .input-box {
+    position: relative;
+    display: block;
+}
+
+.schedule-appointment-box__form form input[type="text"],
+.schedule-appointment-box__form form input[type="email"],
+.schedule-appointment-box__form form textarea {
+    position: relative;
+    display: block;
+    background: rgba(255, 255, 255, 0.20);
+    border: 0px solid #ffffff;
+    width: 100%;
+    height: 45px;
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: 400;
+    font-style: normal;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 0px;
+    transition: all 500ms ease;
+    font-family: var(--thm-font);
+}
+
+.schedule-appointment-box__form form input[type="text"]:focus,
+.schedule-appointment-box__form form input[type="email"]:focus,
+.schedule-appointment-box__form form textarea:focus {
+    outline: none;
+}
+
+.schedule-appointment-box__form form textarea {
+    height: 115px;
+    padding-top: 9px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+}
+
+.schedule-appointment-box__form form input[type="text"]::-webkit-input-placeholder {
+    color: #ffffff;
+}
+
+.schedule-appointment-box__form form input[type="text"]:-moz-placeholder {
+    color: #ffffff;
+}
+
+.schedule-appointment-box__form form input[type="text"]::-moz-placeholder {
+    color: #ffffff;
+}
+
+.schedule-appointment-box__form form input[type="text"]:-ms-input-placeholder {
+    color: #ffffff;
+}
+
+
+.schedule-appointment-box__form form input[type="email"]::-webkit-input-placeholder {
+    color: #ffffff;
+}
+
+.schedule-appointment-box__form form input[type="email"]:-moz-placeholder {
+    color: #ffffff;
+}
+
+.schedule-appointment-box__form form input[type="email"]::-moz-placeholder {
+    color: #ffffff;
+}
+
+.schedule-appointment-box__form form input[type="email"]:-ms-input-placeholder {
+    color: #ffffff;
+}
+
+.schedule-appointment-box__form form .button-box {
+    position: relative;
+    display: block;
+    padding-top: 10px;
+}
+
+.schedule-appointment-box__form form .button-box button {
+    width: 100%;
+    border-radius: 0;
+}
+
+.schedule-appointment-box__form form .button-box button:hover {
+    color: #0d0c20;
+}
+
+.schedule-appointment-box__form form .button-box button:after {
+    background-color: #0d0c20;
+    background-image: none;
+    border-radius: 0;
+}
+
+.schedule-appointment-box__form form .button-box button:before {
+    background-color: #ffffff;
+}
+
+
+
+/*--------------------------------------------------------------
+# Banner Style3 Css
+--------------------------------------------------------------*/
+.banner-style3 {
+    position: relative;
+    display: block;
+    background-color: #0a1c40;
+    z-index: 10;
+}
+
+.banner-style3__content {
+    position: relative;
+    display: block;
+    overflow: hidden;
+    z-index: 2;
+}
+
+.banner-style3__content-inner {
+    position: relative;
+    display: block;
+    max-width: 450px;
+    width: 100%;
+    padding: 146px 0 220px;
+    z-index: 2;
+}
+
+.banner-style3__content .big-title {
+    position: relative;
+    display: block;
+}
+
+.banner-style3__content .big-title h2 {
+    color: #ffffff;
+    font-size: 50px;
+    line-height: 0.9em;
+    font-weight: 700;
+    text-transform: capitalize;
+    font-family: var(--thm-font-2);
+}
+
+.banner-style3__content .big-title h2 span {
+    font-size: 32px;
+    font-weight: 500;
+}
+
+.banner-style3__content .btn-box {
+    position: relative;
+    display: block;
+}
+
+.banner-style3__content .text {
+    position: relative;
+    display: block;
+    padding: 22px 0 43px;
+}
+
+.banner-style3__content .text ul {
+    position: relative;
+    display: block;
+    overflow: hidden;
+}
+
+.banner-style3__content .text ul li {
+    position: relative;
+    display: block;
+    padding-left: 35px;
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: 500;
+    font-family: var(--thm-font-2);
+}
+
+.banner-style3__content .text ul li+li {
+    margin-top: 10px;
+}
+
+.banner-style3__content .text ul li .icon {
+    position: absolute;
+    top: 0;
+    left: 0;
+    color: #feb831;
+    font-size: 25px;
+}
+
+
+
+.schedule-appointment-box--style2 {
+    bottom: 0px;
+    right: 0;
+    max-width: 750px;
+}
+
+.schedule-appointment-box--style2 .shape1 {
+    position: absolute;
+    top: -170px;
+    left: -130px;
+}
+
+.schedule-appointment-box--style2 .img-box {
+    position: absolute;
+    left: -280px;
+    bottom: 20px;
+    z-index: -1;
+}
+
+.schedule-appointment-box--style2 .banner-style2__img-box {
+    position: absolute;
+    left: 0;
+    bottom: 0px;
+}
+
+
+.schedule-appointment-box--style2 .schedule-appointment-box__form {
+    background-image: none;
+    background-color: #1776dc;
+}
+
+.schedule-appointment-box--style2 .schedule-appointment-box__form form {
+    padding: 0px 30px 40px;
+}
+
+.schedule-appointment-box--style2 .schedule-appointment-box__form .top-title {
+    padding: 31px 0 19px;
+}
+
+.schedule-appointment-box--style2 .schedule-appointment-box__form form input[type="text"],
+.schedule-appointment-box--style2 .schedule-appointment-box__form form input[type="email"],
+.schedule-appointment-box--style2 .schedule-appointment-box__form form textarea {
+    position: relative;
+    display: block;
+    background: #0569d1;
+    border: 1px solid #2f84e0;
+}
+
+
+
+.schedule-appointment-box--style2 .schedule-appointment-box__form form .select-box {
+    position: relative;
+    display: block;
+    width: 100%;
+}
+
+.schedule-appointment-box--style2 .schedule-appointment-box__form form .nice-select {
+    position: relative;
+    display: block;
+    background-color: #0569d1;
+    border-radius: 0px;
+    border: solid 1px #2f84e0;
+    width: 100%;
+    height: 45px;
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 43px;
+    outline: none;
+    padding-left: 20px;
+    padding-right: 20px;
+    transition: all 0.2s ease-in-out;
+    font-family: var(--thm-font);
+}
+
+.schedule-appointment-box--style2 .schedule-appointment-box__form form .nice-select:after {
+    position: absolute;
+    content: "\e926";
+    font-family: 'icomoon' !important;
+    color: #2f84e0;
+    font-size: 12px;
+    top: 0px;
+    right: 25px;
+    bottom: 0;
+    margin: 0px;
+    font-weight: 400;
+    border: none !important;
+    transform: rotate(0deg) !important;
+}
+
+.schedule-appointment-box--style2 .schedule-appointment-box__form form .nice-select .list {
+    background-color: var(--thm-black);
+    border-radius: 0px;
+    box-shadow: 0 0 10px rgb(0 0 0 / 10%);
+    padding: 0px 0 0px;
+    margin-top: 10px;
+}
+
+.schedule-appointment-box--style2 .schedule-appointment-box__form form .nice-select .option {
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 15px;
+    line-height: 40px;
+    min-height: 40px;
+}
+
+
+
+/*--------------------------------------------------------------
+# Main Slider
+--------------------------------------------------------------*/
+.main-slider {
+    position: relative;
+    display: block;
+    z-index: 10;
+}
+
+.main-slider-style1 {
+    background-color: #f7f1eb;
+}
+
+.main-slider .swiper-slide {
+    position: relative;
+}
+
+.main-slider .container {
+    position: relative;
+    padding-top: 148px;
+    padding-bottom: 170px;
+    z-index: 30;
+}
+
+.main-slider .image-layer {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    -webkit-transform: scale(1);
+    transform: scale(1);
+    -webkit-transition: opacity 1500ms ease-in, -webkit-transform 7000ms ease;
+    transition: opacity 1500ms ease-in, -webkit-transform 7000ms ease;
+    transition: transform 7000ms ease, opacity 1500ms ease-in;
+    transition: transform 7000ms ease, opacity 1500ms ease-in, -webkit-transform 7000ms ease;
+    z-index: 1;
+}
+
+.main-slider .swiper-slide-active .image-layer {
+    -webkit-transform: scale(1.0);
+    transform: scale(1.0);
+}
+
+.main-slider .image-layer:before {
+    position: absolute;
+    top: 0px;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    content: "";
+    background-color: #000000;
+    opacity: 0.10;
+    display: none;
+    z-index: -1;
+}
+
+.main-slider .main-slider-content {
+    position: relative;
+    display: block;
+    width: 100%;
+}
+
+.main-slider .main-slider-content__inner {
+    position: relative;
+    display: block;
+    overflow: hidden;
+}
+
+.main-slider .main-slider-content .big-title {
+    position: relative;
+    display: block;
+    opacity: 0;
+    -webkit-transform: perspective(400px) rotateY(0deg) translateY(-80px);
+    -ms-transform: perspective(400px) rotateY(0deg) translateY(-80px);
+    transform: perspective(400px) rotateY(0deg) translateY(-80px);
+    -webkit-transform-origin: top;
+    -ms-transform-origin: top;
+    transform-origin: top;
+    -webkit-transition: all 1000ms ease;
+    -moz-transition: all 1000ms ease;
+    -ms-transition: all 1000ms ease;
+    -o-transition: all 1000ms ease;
+    transition: all 1000ms ease;
+    z-index: 10;
+}
+
+.main-slider .swiper-slide-active .main-slider-content .big-title {
+    opacity: 1;
+    -webkit-transform: perspective(400px) rotateY(0deg) translateY(0px);
+    -ms-transform: perspective(400px) rotateY(0deg) translateY(0px);
+    transform: perspective(400px) rotateY(0deg) translateY(0px);
+    -webkit-transition-delay: 1000ms;
+    -moz-transition-delay: 1000ms;
+    -ms-transition-delay: 1000ms;
+    -o-transition-delay: 1000ms;
+    transition-delay: 1000ms;
+}
+
+.main-slider .main-slider-content .big-title h2 {
+    color: #0e2735;
+    font-size: 65px;
+    line-height: 1.1em;
+    font-weight: 900;
+    text-transform: capitalize;
+}
+
+
+.main-slider .main-slider-content .text {
+    position: relative;
+    display: block;
+    width: 100%;
+    margin-top: 19px;
+    opacity: 0;
+    -webkit-transform: perspective(400px) rotateY(0deg) translateX(80px);
+    -ms-transform: perspective(400px) rotateY(0deg) translateX(80px);
+    transform: perspective(400px) rotateY(0deg) translateX(80px);
+    -webkit-transform-origin: bottom;
+    -ms-transform-origin: bottom;
+    transform-origin: bottom;
+    -webkit-transition: all 1000ms ease;
+    -moz-transition: all 1000ms ease;
+    -ms-transition: all 1000ms ease;
+    -o-transition: all 1000ms ease;
+    transition: all 1000ms ease;
+    z-index: 10;
+}
+
+.main-slider .swiper-slide-active .main-slider-content .text {
+    opacity: 1;
+    -webkit-transform: perspective(400px) rotateY(0deg) translateX(0px);
+    -ms-transform: perspective(400px) rotateY(0deg) translateX(0px);
+    transform: perspective(400px) rotateY(0deg) translateX(0px);
+    -webkit-transition-delay: 1000ms;
+    -moz-transition-delay: 1000ms;
+    -ms-transition-delay: 1000ms;
+    -o-transition-delay: 1000ms;
+    transition-delay: 1000ms;
+}
+
+.main-slider .main-slider-content .text p {
+    color: #1a1d21;
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 600;
+}
+
+
+.main-slider .main-slider-content .features-box {
+    position: relative;
+    display: block;
+    padding-top: 35px;
+
+    opacity: 0;
+    -webkit-transform: perspective(400px) rotateY(0deg) translateY(80px);
+    -ms-transform: perspective(400px) rotateY(0deg) translateY(80px);
+    transform: perspective(400px) rotateY(0deg) translateY(80px);
+    -webkit-transform-origin: top;
+    -ms-transform-origin: top;
+    transform-origin: top;
+    -webkit-transition: all 1000ms ease;
+    -moz-transition: all 1000ms ease;
+    -ms-transition: all 1000ms ease;
+    -o-transition: all 1000ms ease;
+    transition: all 1000ms ease;
+    z-index: 10;
+}
+
+.main-slider .swiper-slide-active .main-slider-content .features-box {
+    opacity: 1;
+    -webkit-transform: perspective(400px) rotateY(0deg) translateY(0px);
+    -ms-transform: perspective(400px) rotateY(0deg) translateY(0px);
+    transform: perspective(400px) rotateY(0deg) translateY(0px);
+    -webkit-transition-delay: 1000ms;
+    -moz-transition-delay: 1000ms;
+    -ms-transition-delay: 1000ms;
+    -o-transition-delay: 1000ms;
+    transition-delay: 1000ms;
+}
+
+
+.main-slider .main-slider-content .features-box ul {
+    position: relative;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.main-slider .main-slider-content .features-box ul li {
+    position: relative;
+    display: block;
+}
+
+.main-slider .main-slider-content .features-box ul li+li {
+    margin-left: 60px;
+}
+
+.main-slider .main-slider-content .features-box ul li .icon {
+    position: relative;
+    display: block;
+    color: var(--thm-base);
+    font-size: 50px;
+}
+
+.main-slider .main-slider-content .features-box ul li:nth-child(2) .icon {
+    font-size: 55px;
+}
+
+.main-slider .main-slider-content .features-box ul li .icon span {
+    font-weight: 500;
+}
+
+.main-slider .main-slider-content .features-box ul li .inner-text {
+    position: relative;
+    display: block;
+    padding-top: 15px;
+}
+
+.main-slider .main-slider-content .features-box ul li .inner-text p {
+    color: #0e2735;
+    font-size: 17px;
+    line-height: 20px;
+    font-weight: 500;
+}
+
+
+
+.main-slider .main-slider-content .btn-box {
+    position: relative;
+    display: block;
+    line-height: 0;
+    padding-top: 45px;
+    opacity: 0;
+    -webkit-transform: perspective(400px) rotateY(0deg) translateY(80px);
+    -ms-transform: perspective(400px) rotateY(0deg) translateY(80px);
+    transform: perspective(400px) rotateY(0deg) translateY(80px);
+    -webkit-transform-origin: top;
+    -ms-transform-origin: top;
+    transform-origin: top;
+    -webkit-transition: all 1000ms ease;
+    -moz-transition: all 1000ms ease;
+    -ms-transition: all 1000ms ease;
+    -o-transition: all 1000ms ease;
+    transition: all 1000ms ease;
+    z-index: 10;
+}
+
+.main-slider .swiper-slide-active .main-slider-content .btn-box {
+    opacity: 1;
+    -webkit-transform: perspective(400px) rotateY(0deg) translateY(0px);
+    -ms-transform: perspective(400px) rotateY(0deg) translateY(0px);
+    transform: perspective(400px) rotateY(0deg) translateY(0px);
+    -webkit-transition-delay: 1500ms;
+    -moz-transition-delay: 1500ms;
+    -ms-transition-delay: 1500ms;
+    -o-transition-delay: 1500ms;
+    transition-delay: 1500ms;
+}
+
+.main-slider .main-slider-content .btns-box a {}
+
+
+
+
+.main-slider__nav {
+    position: absolute;
+    top: 0;
+    right: 40px;
+    bottom: 0px;
+    transform: translateY(0%) translateX(0);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    z-index: 100;
+}
+
+.main-slider__nav .swiper-button-next,
+.main-slider__nav .swiper-button-prev {
+    position: relative;
+    top: auto;
+    left: auto;
+    right: auto;
+    bottom: auto;
+    width: 60px;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    color: rgba(9, 13, 48, 0.50);
+    background-color: rgba(255, 255, 255, 0.4);
+    border-radius: 0%;
+    border-top-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    margin: 10px 0;
+    text-align: center;
+    transition: all 500ms ease;
+    z-index: 100;
+}
+
+.main-slider__nav .swiper-button-next:hover,
+.main-slider__nav .swiper-button-prev:hover {
+    color: #ffffff;
+    background-color: var(--thm-base);
+}
+
+.main-slider__nav .swiper-button-next::after,
+.main-slider__nav .swiper-button-prev::after {
+    display: none;
+}
+
+.main-slider__nav .swiper-button-prev {
+    transform: rotate(0deg);
+}
+
+.main-slider__nav .swiper-button-prev .angle-left {
+    position: relative;
+    transform: rotate(0deg);
+}
+
+
+
+/*--------------------------------------------------------------
+# Main Slider Style2
+--------------------------------------------------------------*/
+.main-slider-style2 {
+    position: relative;
+}
+
+.main-slider-style2 .container {
+    padding-top: 221px;
+    padding-bottom: 190px;
+}
+
+.main-slider-style2 .main-slider-content__inner {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    text-align: left;
+    max-width: 800px;
+    float: right;
+    margin-right: -100px;
+}
+
+.main-slider-style2 .main-slider-content__inner .sub-title-box {
+    position: relative;
+    display: block;
+    padding-bottom: 13px;
+
+    opacity: 0;
+    -webkit-transform: perspective(400px) rotateY(0deg) translateY(-80px);
+    -ms-transform: perspective(400px) rotateY(0deg) translateY(-80px);
+    transform: perspective(400px) rotateY(0deg) translateY(-80px);
+    -webkit-transform-origin: top;
+    -ms-transform-origin: top;
+    transform-origin: top;
+    -webkit-transition: all 1500ms ease;
+    -moz-transition: all 1500ms ease;
+    -ms-transition: all 1500ms ease;
+    -o-transition: all 1500ms ease;
+    transition: all 1500ms ease;
+    z-index: 10;
+}
+
+.main-slider-style2 .swiper-slide-active .main-slider-content__inner .sub-title-box {
+    opacity: 1;
+    -webkit-transform: perspective(400px) rotateY(0deg) translateY(0px);
+    -ms-transform: perspective(400px) rotateY(0deg) translateY(0px);
+    transform: perspective(400px) rotateY(0deg) translateY(0px);
+    -webkit-transition-delay: 1000ms;
+    -moz-transition-delay: 1000ms;
+    -ms-transition-delay: 1000ms;
+    -o-transition-delay: 1000ms;
+    transition-delay: 1000ms;
+}
+
+.main-slider-style2 .main-slider-content__inner .sub-title-box ul {
+    position: relative;
+    display: block;
+    overflow: hidden;
+}
+
+.main-slider-style2 .main-slider-content__inner .sub-title-box ul li {
+    position: relative;
+    display: block;
+    float: left;
+    padding-right: 15px;
+    margin-right: 10px;
+    line-height: 24px;
+}
+
+.main-slider-style2 .main-slider-content__inner .sub-title-box ul li:before {
+    content: "";
+    position: absolute;
+    top: 13px;
+    right: 0;
+    width: 5px;
+    height: 1px;
+    background-color: #0052ae;
+}
+
+.main-slider-style2 .main-slider-content__inner .sub-title-box ul li a {
+    color: #0052ae;
+    font-size: 14px;
+    font-weight: 900;
+    text-transform: uppercase;
+    font-family: var(--thm-font-2);
+}
+
+
+
+.main-slider-style2 .main-slider-content .big-title h2 {
+    color: #0a0d19;
+    font-size: 60px;
+    line-height: 1.1em;
+    font-weight: 900;
+}
+
+.main-slider-style2 .main-slider-content .btn-box {
+    padding-top: 43px;
+}
+
+
+
+
+/*--------------------------------------------------------------
+# Main Slider Style3
+--------------------------------------------------------------*/
+.main-slider-style3 {
+    position: relative;
+}
+
+.main-slider-style3 .container {
+    padding-top: 280px;
+    padding-bottom: 210px;
+}
+
+.main-slider-style3 .main-slider-content__inner .sub-title-box {
+    position: relative;
+    display: block;
+    padding-bottom: 22px;
+    opacity: 0;
+    -webkit-transform: perspective(400px) rotateY(0deg) translateY(-80px);
+    -ms-transform: perspective(400px) rotateY(0deg) translateY(-80px);
+    transform: perspective(400px) rotateY(0deg) translateY(-80px);
+    -webkit-transform-origin: top;
+    -ms-transform-origin: top;
+    transform-origin: top;
+    -webkit-transition: all 1500ms ease;
+    -moz-transition: all 1500ms ease;
+    -ms-transition: all 1500ms ease;
+    -o-transition: all 1500ms ease;
+    transition: all 1500ms ease;
+    z-index: 10;
+}
+
+.main-slider-style3 .swiper-slide-active .main-slider-content__inner .sub-title-box {
+    opacity: 1;
+    -webkit-transform: perspective(400px) rotateY(0deg) translateY(0px);
+    -ms-transform: perspective(400px) rotateY(0deg) translateY(0px);
+    transform: perspective(400px) rotateY(0deg) translateY(0px);
+    -webkit-transition-delay: 1000ms;
+    -moz-transition-delay: 1000ms;
+    -ms-transition-delay: 1000ms;
+    -o-transition-delay: 1000ms;
+    transition-delay: 1000ms;
+}
+
+.main-slider-style3 .main-slider-content__inner .sub-title-box h3 {
+    position: relative;
+    display: inline-block;
+    background-color: var(--thm-base);
+    padding: 10px 35px 9px;
+    border-radius: 20px;
+    color: #ffffff;
+    font-size: 15px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+}
+
+
+
+.main-slider-style3 .main-slider-content .text p {
+    color: #ffffff;
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 400;
+}
+
+
+.main-slider-style3 .main-slider-content .big-title h2 {
+    color: #ffffff;
+    font-size: 70px;
+    line-height: 1.05em;
+    font-weight: 900;
+}
+
+.main-slider-style3 .main-slider-content .btn-box {
+    padding-top: 43px;
+}
+
+.main-slider-style3 .main-slider-content .btn-box a:after {
+    background-image: none;
+    background-color: #1d1d1d;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*** End Css  **/

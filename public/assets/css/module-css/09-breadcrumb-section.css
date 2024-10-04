@@ -1,0 +1,132 @@
+/*** 
+=============================================
+    Breadcrumb area style
+=============================================
+***/
+.breadcrumb-area {
+    position: relative;
+    display: block;
+    overflow: hidden;
+    background-color: #ffffff;
+    z-index: 10;
+}
+
+.breadcrumb-area.gray-bg {
+    background-color: #ecf0f7;
+}
+
+.breadcrumb-area.black-bg {
+    background-color: #090d30;
+}
+
+.breadcrumb-area:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 100px;
+    right: 0;
+    background-color: #090d30;
+    z-index: -2;
+}
+
+.breadcrumb-area__inner {
+    position: relative;
+    display: block;
+    max-width: 1730px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+
+.breadcrumb-area-bg {
+    position: absolute;
+    top: 0px;
+    left: 15px;
+    bottom: 0px;
+    right: 15px;
+    background-attachment: scroll;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: -1;
+    border-top-right-radius: 40px;
+    border-bottom-left-radius: 40px;
+}
+
+.breadcrumb-area .inner-content {
+    position: relative;
+    display: block;
+    padding: 175px 0 178px;
+}
+
+.breadcrumb-area .title {
+    position: relative;
+    display: block;
+    z-index: 1;
+}
+
+.breadcrumb-area .title h2 {
+    color: #ffffff;
+    font-size: 70px;
+    line-height: 1.1em;
+    font-weight: 900;
+    text-transform: capitalize;
+}
+
+
+.breadcrumb-menu {
+    position: relative;
+    display: block;
+    line-height: 0;
+    padding-top: 12px;
+    z-index: 1;
+}
+
+.breadcrumb-menu ul {
+    position: relative;
+    display: block;
+    overflow: hidden;
+}
+
+.breadcrumb-menu ul li {
+    position: relative;
+    float: left;
+    color: #ffffff;
+    font-size: 18px;
+    line-height: 28px;
+    font-weight: 500;
+    text-transform: capitalize;
+    padding-right: 12px;
+    margin-right: 12px;
+}
+
+.breadcrumb-menu ul li:before {
+    content: "";
+    position: absolute;
+    top: 9px;
+    right: 0;
+    bottom: 7px;
+    width: 1px;
+    background-color: #ffffff;
+    transform: rotate(12deg);
+}
+
+.breadcrumb-menu ul li:last-child:before {
+    display: none;
+}
+
+.breadcrumb-menu ul li:last-child {
+    padding-right: 0;
+    margin-right: 0;
+}
+
+.breadcrumb-menu ul li a {
+    color: #ffffff;
+    transition: all 200ms linear;
+    transition-delay: 0.1s;
+}
+
+.breadcrumb-menu ul li:hover a,
+.breadcrumb-menu ul li.active {
+    color: var(--thm-base);
+}
