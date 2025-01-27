@@ -229,12 +229,7 @@
                     </div>
                     <h2>What We Do</h2>
                 </div>
-                <div class="text-box">
-                    <p>
-                        Bring to the table win-win survival strategies to ensure proactive domination. At the end of
-                        the day, going forward.
-                    </p>
-                </div>
+
             </div>
 
             <div class="row">
