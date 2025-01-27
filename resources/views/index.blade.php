@@ -38,7 +38,7 @@
                                     <div class="icon">
                                         <span class="icon-check-mark"></span>
                                     </div>
-                                    The only geothermal dealer in South Carolina
+                                    The Best HVAC dealer in GTA
                                 </li>
                                {{-- <li>
                                     <div class="icon">
@@ -58,12 +58,7 @@
                                     </div>
                                     Lowcountry Local First member
                                 </li>
-                                <li>
-                                    <div class="icon">
-                                        <span class="icon-check-mark"></span>
-                                    </div>
-                                    We are 24 trucks strong and growing
-                                </li>
+
                                 {{--<li>
                                     <div class="icon">
                                         <span class="icon-check-mark"></span>
