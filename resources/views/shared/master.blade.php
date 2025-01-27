@@ -509,7 +509,10 @@
 
 <!-- Template js -->
 <script src="{{url('assets/js/custom.js')}}"></script>
+<script>
 
+
+</script>
 
 </body>
 

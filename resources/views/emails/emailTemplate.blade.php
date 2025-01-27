@@ -28,10 +28,10 @@
     <h1>Mail Notification</h1>
     <p>Hi,</p>
     <p>Following Enquiry has beed submitted on Website:</p>
-    <p>{{ $mailData['name'] }}</p>
-    <p>{{ $mailData['email'] }}</p>
-    <p>{{ $mailData['phone'] }}</p>
-    <p>{{ $mailData['message'] }}</p>
+    <p>Name: {{ $mailData['name'] }}</p>
+    <p>Email: {{ $mailData['email'] }}</p>
+    <p>Phone: {{ $mailData['phone'] }}</p>
+    <p>Message: {{ $mailData['message'] }}</p>
 
     <p>Thank you</p>
 </div>
