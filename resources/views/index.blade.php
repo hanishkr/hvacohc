@@ -40,7 +40,7 @@
                                     </div>
                                     The only geothermal dealer in South Carolina
                                 </li>
-                                <li>
+                               {{-- <li>
                                     <div class="icon">
                                         <span class="icon-check-mark"></span>
                                     </div>
@@ -51,7 +51,7 @@
                                         <span class="icon-check-mark"></span>
                                     </div>
                                     Winner of Angie’s List Super Service Award 2013
-                                </li>
+                                </li>--}}
                                 <li>
                                     <div class="icon">
                                         <span class="icon-check-mark"></span>
@@ -64,12 +64,12 @@
                                     </div>
                                     We are 24 trucks strong and growing
                                 </li>
-                                <li>
+                                {{--<li>
                                     <div class="icon">
                                         <span class="icon-check-mark"></span>
                                     </div>
                                     100% NATE Certified Service Department
-                                </li>
+                                </li>--}}
                                 <li>
                                     <div class="icon">
                                         <span class="icon-check-mark"></span>
@@ -134,7 +134,7 @@
         </div>
 
         <!--Start Fact Counter style2 Area-->
-        <div class="fact-counter-style2-area">
+       {{-- <div class="fact-counter-style2-area">
             <div class="container">
                 <div class="row">
                     <div class="col-xl-12">
@@ -219,7 +219,7 @@
             </div>
         </div>
         <!--End Fact Counter style2 Area-->
-
+--}}
     </section>
     <!--End Values Style3-->
 
@@ -477,7 +477,7 @@
                     <div class="icon">
                         <span class="icon-reliability"></span>
                     </div>
-                    <h3>Trusted by<br> 9800+ happy<br> customers</h3>
+                    <h3>Trusted by<br> 1000+ happy<br> customers</h3>
                 </div>
             </div>
             <div class="container">
@@ -492,7 +492,7 @@
                                 <h2>Assured Air Conditioner Services</h2>
                             </div>
                             <div class="text">
-                                <p>Extensive Contractor Services: At Samm’s, we expect to continue our relationship
+                                <p>Extensive Contractor Services: we expect to continue our relationship
                                     long
                                     after your new equipment is installed. Our ongoing services are designed to keep
                                     your unit operating at peak efficiency without disruptive breakdowns.</p>
@@ -572,7 +572,7 @@
     </section>
     <!--End Choose Style1-->
 
-    <!--Start Fact Counter Area-->
+   {{-- <!--Start Fact Counter Area-->
     <section class="fact-counter-area">
         <div class="container">
             <div class="row">
@@ -658,7 +658,7 @@
         </div>
     </section>
     <!--End Fact Counter Area-->
-
+--}}
     <!--Start  Additional Services Style1 Area-->
     <section class="additional-services-style1">
         <div class="additional-services-style1__bg"
