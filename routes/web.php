@@ -10,3 +10,4 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/',[HomeController::class, 'index'])->name('welcome');
 Route::get('/contact',[HomeController::class, 'contact'])->name('contact');
+Route::post('/emailEnquiry',[HomeController::class, 'emailEnquiry'])->name('emailEnquiry');

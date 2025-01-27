@@ -81,12 +81,11 @@
                         <div class="top-title">
                             <h3>Book a free visit of our<br>Professional HVAC Technician</h3>
                         </div>
-                        <form id="booking-form" name="booking_form" class="default-form2" action="index.html"
-                              method="post">
+                        {{ Form::open(array('url' => '/emailEnquiry','method' => 'post','class'=>'default-form2','name'=>'booking_form','id'=>'booking-form')) }}
 
                             <div class="form-group">
                                 <div class="input-box">
-                                    <input type="text" name="form_name" id="formName1" placeholder="Name"
+                                    <input type="text" name="name" id="formName1" placeholder="Name"
                                            required="">
                                 </div>
                             </div>
@@ -121,7 +120,7 @@
                                 </div>
                             </div>
 
-                        </form>
+                        {{ Form::close() }}
                     </div>
                 </div>
 
