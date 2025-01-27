@@ -408,10 +408,10 @@
                             </div>
                             <h2>Our Core Values & Expertises<br> In Our Limit</h2>
                         </div>
-                        <div class="text">
+                       {{-- <div class="text">
                             <p>Collaboratively administrate empowered markets via plug-and-play networks.
                                 <u>Dynamically procrastinate</u> B2C users after installed.</p>
-                        </div>
+                        </div>--}}
 
                         <div class="our-values-style1__content-features">
                             <ul>
