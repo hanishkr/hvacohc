@@ -680,7 +680,7 @@
                                 first time.</p>
                         </div>
                         <div class="text-bottom">
-                            <p>Extensive Contractor Services: At Samm’s, we expect to continue our relationship
+                            <p>Extensive Contractor Services: we expect to continue our relationship
                                 long after your new equipment is installed. Our ongoing services are designed to
                                 keep your unit operating at peak efficiency without disruptive breakdowns.</p>
                         </div>
