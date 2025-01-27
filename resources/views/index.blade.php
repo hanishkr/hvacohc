@@ -32,7 +32,7 @@
                                     <div class="icon">
                                         <span class="icon-check-mark"></span>
                                     </div>
-                                    A Carrier factory-authorized HVAC dealer
+                                    A Professional, Licensed and authorized HVAC dealer
                                 </li>
                                 <li>
                                     <div class="icon">
