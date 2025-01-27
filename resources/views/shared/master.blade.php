@@ -509,11 +509,7 @@
 
 <!-- Template js -->
 <script src="{{url('assets/js/custom.js')}}"></script>
-<script>
-    function onSubmit(token) {
-        document.getElementById("booking-form").submit();
-    }
-</script>
+
 
 </body>
 
