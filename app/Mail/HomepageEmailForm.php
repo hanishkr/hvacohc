@@ -31,7 +31,7 @@ class HomepageEmailForm extends Mailable
     {
         return new Envelope(
             from: new Address('info@hvaohc.com', 'HVAC OHC'),
-            subject: 'Enquiry submitted on hvacrepair',
+            subject: 'Enquiry submitted on hvacrepair.ca',
         );
     }
 

@@ -19,7 +19,6 @@ class HomeController extends Controller
     public function emailEnquiry(Request $mailData){
 
         Mail::to('ohcinc22@gmail.com')->send(new HomepageEmailForm($mailData));
-        dd('senr');
         return 'true';
     }
 }

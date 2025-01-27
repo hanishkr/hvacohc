@@ -27,7 +27,7 @@
 <div class="container">
     <h1>Mail Notification</h1>
     <p>Hi,</p>
-   <p>Following Enquiry has beed submitted on Website:</p>
+    <p>Following Enquiry has beed submitted on Website:</p>
     <p>{{ $mailData['name'] }}</p>
     <p>{{ $mailData['email'] }}</p>
     <p>{{ $mailData['phone'] }}</p>
