@@ -4,13 +4,13 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>HVACOHC |</title>
+    <title>HVAC Services Brampton | Heating & Air Conditioning | </title>
     <!-- Favicons Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="{{url('assets/images/favicons/apple-touch-icon.png')}}" />
     <link rel="icon" type="image/png" sizes="32x32" href="{{url('assets/images/favicons/favicon-32x32.png')}}" />
     <link rel="icon" type="image/png" sizes="16x16" href="{{url('assets/images/favicons/favicon-16x16.png')}}" />
     <link rel="manifest" href="{{url('assets/images/favicons/site.webmanifest')}}" />
-    <meta name="description" content="" />
+    <meta name="description" content="AC maintenance, Ductless heating and AC services, Heating maintenance, HVAC maintenance, Install AC, Install ducts and vents, Install heating system, Install thermostat, Repair AC, Repair ducts and vents, Repair heating system, Repair HVAC, Repair thermostat" />
 
     <!-- Fonts -->
     <link
