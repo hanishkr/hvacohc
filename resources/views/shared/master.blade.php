@@ -427,14 +427,7 @@
                 <img src="{{url('assets/images/resources/mobile-nav-logo.png')}}" alt="" />
             </a>
         </div>
-        <div class="mobile-nav-search-box">
-            <form class="search-form" action="#">
-                <input placeholder="Keyword" type="text">
-                <button type="submit">
-                    <i class="icon-magnifying-glass"></i>
-                </button>
-            </form>
-        </div>
+
         <div class="mobile-nav__container"></div>
         <ul class="mobile-nav__contact list-unstyled">
             <li>
