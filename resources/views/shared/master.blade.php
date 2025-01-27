@@ -60,6 +60,7 @@
     <link rel="stylesheet" href="{{url('assets/css/style.css')}}" />
     <link rel="stylesheet" href="{{url('assets/css/responsive.css')}}" />
 
+
 </head>
 
 <body>
@@ -504,10 +505,15 @@
 <script src="{{url('assets/vendors/extra-scripts/TweenMax.min.js')}}"></script>
 <script src="{{url('assets/vendors/timePicker/timePicker.js')}}"></script>
 <script src="{{url('assets/vendors/jarallax/jarallax.min.js')}}"></script>
+<script src="https://www.google.com/recaptcha/api.js"></script>
 
 <!-- Template js -->
 <script src="{{url('assets/js/custom.js')}}"></script>
-
+<script>
+    function onSubmit(token) {
+        document.getElementById("booking-form").submit();
+    }
+</script>
 
 </body>
 
