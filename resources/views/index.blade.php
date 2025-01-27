@@ -112,9 +112,7 @@
                             <div class="row">
                                 <div class="col-xl-12">
                                     <div class="button-box">
-                                        <button  class="btn-one g-recaptcha"
-                                                 data-sitekey="6LcLJ8UqAAAAAAB87z-3nIOvr8ru1NlDxvccIj2K"
-                                                 type="submit">
+                                        <button  class="btn-one" type="submit">
                                                 <span class="txt">
                                                     Free Estimate
                                                 </span>

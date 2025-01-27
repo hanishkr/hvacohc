@@ -505,7 +505,7 @@
 <script src="{{url('assets/vendors/extra-scripts/TweenMax.min.js')}}"></script>
 <script src="{{url('assets/vendors/timePicker/timePicker.js')}}"></script>
 <script src="{{url('assets/vendors/jarallax/jarallax.min.js')}}"></script>
-<script src="https://www.google.com/recaptcha/api.js"></script>
+<script src="https://www.google.com/recaptcha/api.js?render=6LcLJ8UqAAAAAAB87z-3nIOvr8ru1NlDxvccIj2K"></script>
 
 <!-- Template js -->
 <script src="{{url('assets/js/custom.js')}}"></script>
