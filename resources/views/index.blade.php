@@ -272,10 +272,10 @@
                             </div>
                             <div class="text">
                                 <h3><a href="#">AC Installation</a></h3>
-                                <p>survival strategies to ensure proactive dominat lion. At the end.</p>
+                               {{-- <p>survival strategies to ensure proactive dominat lion. At the end.</p>
                                 <div class="btn-box">
                                     <a class="btn-two" href="#">Read More</a>
-                                </div>
+                                </div>--}}
                             </div>
                         </div>
                         <!--End Single Service Style1-->
@@ -286,10 +286,10 @@
                             </div>
                             <div class="text">
                                 <h3><a href="#">AC Maintenance</a></h3>
-                                <p>survival strategies to ensure proactive dominat lion. At the end.</p>
+                               {{-- <p>survival strategies to ensure proactive dominat lion. At the end.</p>
                                 <div class="btn-box">
                                     <a class="btn-two" href="#">Read More</a>
-                                </div>
+                                </div>--}}
                             </div>
                         </div>
                         <!--End Single Service Style1-->
@@ -300,10 +300,10 @@
                             </div>
                             <div class="text">
                                 <h3><a href="#">Heating Service</a></h3>
-                                <p>survival strategies to ensure proactive dominat lion. At the end.</p>
+                               {{-- <p>survival strategies to ensure proactive dominat lion. At the end.</p>
                                 <div class="btn-box">
                                     <a class="btn-two" href="#">Read More</a>
-                                </div>
+                                </div>--}}
                             </div>
                         </div>
                         <!--End Single Service Style1-->
@@ -314,10 +314,10 @@
                             </div>
                             <div class="text">
                                 <h3><a href="#">Indoor Air Quality</a></h3>
-                                <p>survival strategies to ensure proactive dominat lion. At the end.</p>
+                               {{-- <p>survival strategies to ensure proactive dominat lion. At the end.</p>
                                 <div class="btn-box">
                                     <a class="btn-two" href="#">Read More</a>
-                                </div>
+                                </div>--}}
                             </div>
                         </div>
                         <!--End Single Service Style1-->
@@ -330,10 +330,10 @@
                             </div>
                             <div class="text">
                                 <h3><a href="#">AC Installation</a></h3>
-                                <p>survival strategies to ensure proactive dominat lion. At the end.</p>
+                                {{--<p>survival strategies to ensure proactive dominat lion. At the end.</p>
                                 <div class="btn-box">
                                     <a class="btn-two" href="#">Read More</a>
-                                </div>
+                                </div>--}}
                             </div>
                         </div>
                         <!--End Single Service Style1-->
@@ -344,10 +344,10 @@
                             </div>
                             <div class="text">
                                 <h3><a href="#">AC Maintenance</a></h3>
-                                <p>survival strategies to ensure proactive dominat lion. At the end.</p>
+                                {{--<p>survival strategies to ensure proactive dominat lion. At the end.</p>
                                 <div class="btn-box">
                                     <a class="btn-two" href="#">Read More</a>
-                                </div>
+                                </div>--}}
                             </div>
                         </div>
                         <!--End Single Service Style1-->
@@ -358,10 +358,10 @@
                             </div>
                             <div class="text">
                                 <h3><a href="#">Heating Service</a></h3>
-                                <p>survival strategies to ensure proactive dominat lion. At the end.</p>
+                              {{--  <p>survival strategies to ensure proactive dominat lion. At the end.</p>
                                 <div class="btn-box">
                                     <a class="btn-two" href="#">Read More</a>
-                                </div>
+                                </div>--}}
                             </div>
                         </div>
                         <!--End Single Service Style1-->
@@ -372,10 +372,10 @@
                             </div>
                             <div class="text">
                                 <h3><a href="#">Indoor Air Quality</a></h3>
-                                <p>survival strategies to ensure proactive dominat lion. At the end.</p>
+                               {{-- <p>survival strategies to ensure proactive dominat lion. At the end.</p>
                                 <div class="btn-box">
                                     <a class="btn-two" href="#">Read More</a>
-                                </div>
+                                </div>--}}
                             </div>
                         </div>
                         <!--End Single Service Style1-->
