@@ -86,26 +86,26 @@
                             @csrf
                             <div class="form-group">
                                 <div class="input-box">
-                                    <input type="text" name="form_name" id="formName1" placeholder="Name"
+                                    <input type="text" name="name" id="formName1" placeholder="Name"
                                            required="">
                                 </div>
                             </div>
 
                             <div class="form-group">
                                 <div class="input-box">
-                                    <input type="email" name="form_email" id="formEmail1" placeholder="Email"
+                                    <input type="email" name="email" id="formEmail1" placeholder="Email"
                                            required="">
                                 </div>
                             </div>
                             <div class="form-group">
                                 <div class="input-box">
-                                    <input type="text" name="form_phone" value="" id="formPhone1"
+                                    <input type="text" name="phone" value="" id="formPhone1"
                                            placeholder="Phone Number">
                                 </div>
                             </div>
                             <div class="form-group">
                                 <div class="input-box">
-                                        <textarea name="form_message" id="formMessage1"
+                                        <textarea name="message" id="formMessage1"
                                                   placeholder="How may we help you ?" required=""></textarea>
                                 </div>
                             </div>
