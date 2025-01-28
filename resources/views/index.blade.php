@@ -774,7 +774,7 @@
                     <h4 class="modal-title" id="myModalLabel">Modal title</h4>
                 </div>
                 <div class="modal-body">
-                    ...
+                    Hello
                 </div>
             </div>
         </div>
