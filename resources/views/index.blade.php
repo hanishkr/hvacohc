@@ -776,7 +776,7 @@
                             </div>
                             <div class="text">
                                 <h3>Thank You</h3>
-                                <p>We've received your inquiry and a dedicated representative will reach out to you soon to discuss your specific requirements. Thank You</p>
+                                <p>We've received your inquiry and a dedicated representative will reach out to you soon to discuss your specific requirements.</p>
 
                             </div>
                         </div>
