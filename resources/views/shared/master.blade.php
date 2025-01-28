@@ -510,7 +510,11 @@
 <!-- Template js -->
 <script src="{{url('assets/js/custom.js')}}"></script>
 <script>
-
+    if ($result_array)
+       alert('t');
+    else {
+        alert('f')
+}`
 
 </script>
 
