@@ -514,8 +514,7 @@
        alert('t');
     else {
         alert('f')
-}`
-
+}
 </script>
 
 </body>
