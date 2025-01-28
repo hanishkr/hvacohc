@@ -510,12 +510,11 @@
 <!-- Template js -->
 <script src="{{url('assets/js/custom.js')}}"></script>
 <script>
-    if ($result_array) {
-        console.log($result_array);
-        alert('t');
-    }
-    else {
-        alert('f');
+    window.onload = function () {
+        hashUrl = window.location.hash;
+        if (hashUrl == "#ThankYou") {
+            alert("Thank You for Enquiry!<br/>We've received your inquiry and a dedicated representative will reach out to you soon to discuss your specific requirements.");
+        }
     }
 </script>
 
