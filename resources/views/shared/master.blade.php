@@ -510,12 +510,13 @@
 <!-- Template js -->
 <script src="{{url('assets/js/custom.js')}}"></script>
 <script>
-    if ($result_array)
+    if ($result_array) {
         console.log($result_array);
-       alert('t');
+        alert('t');
+    }
     else {
         alert('f');
-}
+    }
 </script>
 
 </body>
