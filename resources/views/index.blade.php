@@ -771,10 +771,18 @@
             <div class="modal-content">
                 <div class="modal-header">
                     <button type="button" class="close" data-g-dismiss="modal" aria-hidden="true">×</button>
-                    <h4 class="modal-title" id="myModalLabel">Modal title</h4>
+                    <h4 class="modal-title" id="myModalLabel">Thank You</h4>
                 </div>
                 <div class="modal-body">
-                    Hello
+                    <div class="owl-item active" style="width: 270px; margin-right: 30px;"><div class="single-service-style1">
+                            <div class="icon">
+                                <span class="icon-repair"></span>
+                            </div>
+                            <div class="text">
+                                <p>We've received your inquiry and a dedicated representative will reach out to you soon to discuss your specific requirements. Thank You</p>
+
+                            </div>
+                        </div></div>
                 </div>
             </div>
         </div>
