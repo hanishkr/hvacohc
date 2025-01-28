@@ -19,6 +19,6 @@ class HomeController extends Controller
     public function emailEnquiry(Request $mailData){
 
         Mail::to('ohcinc22@gmail.com')->send(new HomepageEmailForm($mailData));
-        return redirect('/')->with('message', json_encode(['success'=>'Email Sent Sucessfully!']));
+        return redirect('/#ThankYou')->with('message', json_encode(['success'=>'Email Sent Sucessfully!']));
     }
 }
