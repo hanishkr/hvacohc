@@ -513,7 +513,7 @@
     window.onload = function () {
         hashUrl = window.location.hash;
         if (hashUrl == "#ThankYou") {
-            alert("Thank You for Enquiry!<br/>We've received your inquiry and a dedicated representative will reach out to you soon to discuss your specific requirements.");
+            alert("We've received your inquiry and a dedicated representative will reach out to you soon to discuss your specific requirements. Thank You");
         }
     }
 </script>
