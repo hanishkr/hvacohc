@@ -514,7 +514,7 @@
         console.log($result_array);
        alert('t');
     else {
-        alert('f')
+        alert('f');
 }
 </script>
 
