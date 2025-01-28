@@ -766,15 +766,11 @@
     </section>
     <!--End  Additional Services Style1 Area-->
 
-    <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal fade"  id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
         <div class="modal-dialog">
-            <div class="modal-content">
-                <div class="modal-header">
-                    <button type="button" class="close" data-g-dismiss="modal" aria-hidden="true">×</button>
-                    <h4 class="modal-title" id="myModalLabel">Thank You</h4>
-                </div>
+            <div style="border: none;background-color: transparent;" class="modal-content">
                 <div class="modal-body">
-                    <div class="owl-item active" style="width: 270px; margin-right: 30px;"><div class="single-service-style1">
+                    <div class="owl-item active"><div class="single-service-style1">
                             <div class="icon">
                                 <span class="icon-repair"></span>
                             </div>
@@ -782,7 +778,8 @@
                                 <p>We've received your inquiry and a dedicated representative will reach out to you soon to discuss your specific requirements. Thank You</p>
 
                             </div>
-                        </div></div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
